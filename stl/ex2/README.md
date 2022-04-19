@@ -46,6 +46,7 @@ printed, assuming that no additional print jobs will arrive.
 
 ## Sample Input
 
+```
 3
 1 0
 5
@@ -53,9 +54,12 @@ printed, assuming that no additional print jobs will arrive.
 1 2 3 4
 6 0
 1 1 9 1 1 1
+```
 
 ## Sample Output
 
+```
 1
 2
 5
+```

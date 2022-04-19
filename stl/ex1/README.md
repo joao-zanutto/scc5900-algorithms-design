@@ -30,13 +30,17 @@ For each case print the minimum total cost of addition in a single line.
 
 ## Sample Input
 
+```
 3
 1 2 3
 4
 1 2 3 4
 0
+```
 
 ## Sample Output
 
+```
 9
 19
+```
